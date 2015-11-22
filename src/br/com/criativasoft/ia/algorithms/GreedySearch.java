@@ -24,6 +24,8 @@ public class GreedySearch extends AbstractSearch {
 
     @Override
     public boolean execute() {
+        
+        super.execute();
 
         queue.add(getTree().getRootElement());
 

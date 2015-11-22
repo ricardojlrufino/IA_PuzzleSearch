@@ -19,9 +19,9 @@ import br.com.criativasoft.ia.puzzle.model.BoardHeuristicA;
 public class Main {
          
     static int[] initial = {
-            8, 4, 0, 
-            5, 1, 7, 
-            6, 2, 3
+            7, 2, 4, 
+            5, 0, 6, 
+            8, 3, 1
     };
 
     static int[] expected = {

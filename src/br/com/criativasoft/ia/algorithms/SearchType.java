@@ -1,4 +1,4 @@
-package br.com.criativasoft.ia.puzzle.types;
+package br.com.criativasoft.ia.algorithms;
 
 public enum SearchType {
     

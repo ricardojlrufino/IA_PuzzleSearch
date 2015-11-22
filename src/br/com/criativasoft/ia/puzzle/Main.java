@@ -2,16 +2,12 @@ package br.com.criativasoft.ia.puzzle;
 
 import java.util.List;
 
-import br.com.criativasoft.ia.algorithms.BreadthFirstSearch;
-import br.com.criativasoft.ia.algorithms.GreedySearch;
-import br.com.criativasoft.ia.algorithms.Problem;
-import br.com.criativasoft.ia.algorithms.Search;
+import br.com.criativasoft.ia.algorithms.*;
 import br.com.criativasoft.ia.algorithms.model.Node;
 import br.com.criativasoft.ia.algorithms.model.Statistics;
 import br.com.criativasoft.ia.algorithms.model.Tree;
 import br.com.criativasoft.ia.puzzle.model.Board;
 import br.com.criativasoft.ia.puzzle.model.BoardHeuristicA;
-import br.com.criativasoft.ia.puzzle.types.SearchType;
 
 /**
  * Source: https://github.com/ricardojlrufino/IA_PuzzleSearch
